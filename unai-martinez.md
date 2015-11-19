@@ -4,3 +4,5 @@ Bio
 * Pizza
 * Gaming
 * Blue
+* More part of the bio
+
